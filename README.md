@@ -1,3 +1,45 @@
+## COVID-19 Data Analysis Project with SQL
+
+**Project Overview:**
+
+This project focuses on analyzing and interpreting COVID-19 pandemic data using SQL, showcasing advanced skills in view creation and large dataset analysis. The project addresses critical questions related to cases, deaths, vaccination, and infection rates, providing valuable insights into the global impact of the pandemic.
+
+**Key Components of the Project:**
+
+- **Initial Data Exploration:**
+  - **Data Visualization:** Created initial views to display the first 10 entries of COVID-19 death and vaccination data, facilitating preliminary data inspection.
+
+- **Cases and Deaths Analysis:**
+  - **Total Cases and Deaths by Country:** Developed a view that aggregates cases and deaths by country, offering an overview of the pandemic's impact across different regions.
+
+- **Probability of Death and Infection:**
+  - **Death Probability:** Calculated the probability of death from COVID-19 in each country, expressed as a percentage.
+  - **Infection Probability:** Analyzed the probability of infection by COVID-19, providing insights into the risk faced by various countries.
+
+- **Ranking and Classification:**
+  - **Top 5 Countries by Infection Rate:** Identified the top 5 countries with the highest infection rates, highlighting the most critical areas.
+  - **Top 5 Countries by Death Rate:** Determined the top 5 countries with the highest mortality rates from COVID-19.
+  - **Continent Rankings:** Ranked continents based on mortality rates, providing a global perspective on the pandemic’s impact.
+
+- **Vaccination Analysis:**
+  - **Population Vaccination Percentage:** Calculated the percentage of the population that received at least one dose of the COVID-19 vaccine.
+  - **Vaccination by Country and Date:** Provided accumulated and temporal analysis of vaccinations by country, allowing for a detailed view of vaccination progress.
+
+- **Additional Visualizations:**
+  - **View Creation:** Implemented views to facilitate data visualization and analysis for future projects, ensuring that insights can be easily accessed and utilized.
+
+**Technologies and Tools Used:**
+
+- **SQL:** View creation and data manipulation.
+- **DBeaver:** Development environment for data management and visualization.
+
+**Project Impact:**
+
+This project offers a deep understanding of COVID-19 data, facilitating analysis and interpretation of global impacts. It demonstrates skills in handling large datasets and creating useful visualizations for informed decision-making. The ability to create complex views and provide detailed insights reflects strong proficiency in SQL and data analysis.
+
+
+---
+
 ## Projeto de Análise de Dados de COVID-19 com SQL
 
 **Descrição do Projeto:**
